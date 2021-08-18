@@ -2,9 +2,9 @@
 
 The Visual SPA Editor allows authors to edit your headless frontend, reducing your ongoing maintenance duties. (win!) But you get to keep everything fully headless.
 
-Master change
-
 This demo shows you how to use the basic features for React.
+
+> Sync it up Johnnie
 
 ![The App](_dev/README-screenshot-app.png)
 
