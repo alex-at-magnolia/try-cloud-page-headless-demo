@@ -1,5 +1,3 @@
-#! /usr/bin/env node
-
 let envName = process.env.BRANCH.replace("env/", "");
 
 require('fs')

@@ -1,5 +1,3 @@
-#! /usr/bin/env node
-
 const currentGitBranch = require('current-git-branch');
 let envName = currentGitBranch().replace("env/", "");
 
