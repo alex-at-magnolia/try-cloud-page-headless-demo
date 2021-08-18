@@ -6,6 +6,8 @@ Sync change
 
 This demo shows you how to use the basic features for React.
 
+> Sync it up Johnnie
+
 ![The App](_dev/README-screenshot-app.png)
 
 ## TODO
