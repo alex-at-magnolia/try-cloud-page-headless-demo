@@ -1,5 +1,5 @@
 title: 'React: Contact'
-templateScript: https://localhost:3000
+templateScript: http://localhost:3000
 dialog: spa-lm:pages/basic
 
 renderType: spa
