@@ -4,7 +4,7 @@
   'mgnl:lastModified': 2021-08-12T05:09:54.581+03:00
   'mgnl:lastModifiedBy': 'user@magnolia-cms.com'
   'mgnl:template': 'react-minimal-lm:pages/basic'
-  'title': 'wow'
+  'title': 'Hello SaaS'
   'main':
     'jcr:primaryType': 'mgnl:area'
     'jcr:uuid': '99f03460-b592-4b60-9008-0da2d73e0933'
@@ -104,12 +104,5 @@
     '00':
       'jcr:primaryType': 'mgnl:component'
       'jcr:uuid': '001cd158-a3df-494b-9d5f-d37ac827dff6'
-      'mgnl:template': 'spa-lm:components/headline'
-      'text': 'Hello SaaS'
-    '0':
-      'jcr:primaryType': 'mgnl:component'
-      'jcr:uuid': 'cbfeec62-e52d-4f8d-966f-c99b06f5ed59'
-      'mgnl:lastModified': 2021-07-25T23:42:41.486+03:00
-      'mgnl:lastModifiedBy': 'user@magnolia-cms.com'
       'mgnl:template': 'spa-lm:components/headline'
       'text': 'Look at you go!'
